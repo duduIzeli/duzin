@@ -6,12 +6,12 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #e7e7e7;
+    background-color: #ff0808;
     padding: 20px;
         background-image: url("images.jpeg");
    
    
-         .card {
+         .card-container {
             background-color: var(--card-front-color);
             text-align: center;
             height: 100%;
@@ -42,7 +42,7 @@ header {
 
 
 .card {
-    background-color: rgb(255, 251, 251);
+    background-color: rgb(255, 255, 255);
     border: 1px solid #000000;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(202, 199, 199, 0.1);
